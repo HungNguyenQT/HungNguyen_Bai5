@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand {
+    color: gold !important;
+    font-weight: bold;
+  }
+.nav-link{
+    color: #000 !important;
+    font-weight: bold !important;
+}
+  .nav-link:hover {
+    background-color: gold;
+    color: white !important;
+    border-radius: 5px;
+  }
+  .introduction{
+    padding-top: 15px;
+  }
+  .introduction h1{
+    text-align: center;
+    color: rgb(192, 124, 40);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px;
+  }
+  .introduction p{
+    text-align: center;
+    padding: 15px;
+  }
+  .card h5{
+    text-align: left;
+    color: #cfa01e;
+  }
+  .card p{
+    text-align: left;
+    padding: 0;
+  }
+  .card a.btn.btn-custom{
+    background: #cfa01e;
+    color: aliceblue;
+  }
+  .product{
+    margin-top: 15px;
+    margin-bottom: 25px;
+  }
+  /* footer */
+  .footer{
+    margin: 15px 0 25px 0;
+  }
+  .footer h3{
+    color: #cfa01e;
+
+  }
+  .footer p{
+    text-align: left;
+    padding: 15px 0 0 0;
+    
+  }
+  .footer button{
+    background: #cfa01e;
+    border-radius: 5px;
+    border: 0;
+    padding: 5px;
+    color: aliceblue;
+  }
+  .right-footer a{
+    line-height: 50px;
+  }
+  .right-footer h4{
+    margin: 15px 0 15px 0;
+    color: #cfa01e;
+  }
+  .right-footer h5{
+    padding: 0;
+    color: #cfa01e;
+    margin: 0;
+  }
+  .right-footer p{
+    padding: 0;
+    line-height: 30px;
+  }
+  .right-footer img{
+    margin-bottom: 10px;
+  }
