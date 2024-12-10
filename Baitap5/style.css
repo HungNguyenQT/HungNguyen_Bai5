@@ -43,43 +43,76 @@
   .product{
     margin-top: 15px;
     margin-bottom: 25px;
-  }
-  /* footer */
-  .footer{
+  }  
+  .categories{
     margin: 15px 0 25px 0;
   }
-  .footer h3{
+  .categories h3{
     color: #cfa01e;
 
   }
-  .footer p{
+  .categories p{
     text-align: left;
     padding: 15px 0 0 0;
     
   }
-  .footer button{
+  .categories button{
     background: #cfa01e;
     border-radius: 5px;
     border: 0;
     padding: 5px;
     color: aliceblue;
   }
-  .right-footer a{
+  .right-categories a{
     line-height: 50px;
   }
-  .right-footer h4{
+  .right-categories h4{
     margin: 15px 0 15px 0;
     color: #cfa01e;
   }
-  .right-footer h5{
+  .right-categories h5{
     padding: 0;
     color: #cfa01e;
     margin: 0;
   }
-  .right-footer p{
+  .right-categories p{
     padding: 0;
     line-height: 30px;
   }
-  .right-footer img{
+  .right-categories img{
     margin-bottom: 10px;
   }
+  .images-footer{
+    padding: 0px 5px 0px 0px !important;
+    margin: 0px !important;
+    border-radius: 0px !important;
+  }
+  /* footer */
+  .footer{
+    background: #2c2a2a;
+    padding-bottom: 30px;
+  }
+  .footer h3{
+    color: #cfa01e;
+    padding-top: 25px;
+  }
+  .footer .background-w{
+    background: white;
+    width: 100%;   
+    padding: 15px;
+    color: #000;
+  }
+.link a{
+  display: block;
+  line-height: 50px;
+}
+.footer p{
+  color: aliceblue;
+}
+.footer .link-a a{
+  background: #cfa01e;
+  color: aliceblue;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 5px;
+}
